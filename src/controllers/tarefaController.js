@@ -1,5 +1,5 @@
 import tarefaModel from "../models/tarefaModel.js";
-
+//Teste
 class TarefaController {
   getAll = async (req, res) => {
     try {
